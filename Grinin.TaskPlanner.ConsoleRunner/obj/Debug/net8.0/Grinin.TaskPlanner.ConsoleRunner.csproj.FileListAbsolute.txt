@@ -1,0 +1,14 @@
+E:\Other\.net reps\Grinin.TaskPlanner-L1\Grinin.TaskPlanner\Grinin.TaskPlanner.ConsoleRunner\bin\Debug\net8.0\Grinin.TaskPlanner.ConsoleRunner.exe
+E:\Other\.net reps\Grinin.TaskPlanner-L1\Grinin.TaskPlanner\Grinin.TaskPlanner.ConsoleRunner\bin\Debug\net8.0\Grinin.TaskPlanner.ConsoleRunner.deps.json
+E:\Other\.net reps\Grinin.TaskPlanner-L1\Grinin.TaskPlanner\Grinin.TaskPlanner.ConsoleRunner\bin\Debug\net8.0\Grinin.TaskPlanner.ConsoleRunner.runtimeconfig.json
+E:\Other\.net reps\Grinin.TaskPlanner-L1\Grinin.TaskPlanner\Grinin.TaskPlanner.ConsoleRunner\bin\Debug\net8.0\Grinin.TaskPlanner.ConsoleRunner.dll
+E:\Other\.net reps\Grinin.TaskPlanner-L1\Grinin.TaskPlanner\Grinin.TaskPlanner.ConsoleRunner\bin\Debug\net8.0\Grinin.TaskPlanner.ConsoleRunner.pdb
+E:\Other\.net reps\Grinin.TaskPlanner-L1\Grinin.TaskPlanner\Grinin.TaskPlanner.ConsoleRunner\obj\Debug\net8.0\Grinin.TaskPlanner.ConsoleRunner.GeneratedMSBuildEditorConfig.editorconfig
+E:\Other\.net reps\Grinin.TaskPlanner-L1\Grinin.TaskPlanner\Grinin.TaskPlanner.ConsoleRunner\obj\Debug\net8.0\Grinin.TaskPlanner.ConsoleRunner.AssemblyInfoInputs.cache
+E:\Other\.net reps\Grinin.TaskPlanner-L1\Grinin.TaskPlanner\Grinin.TaskPlanner.ConsoleRunner\obj\Debug\net8.0\Grinin.TaskPlanner.ConsoleRunner.AssemblyInfo.cs
+E:\Other\.net reps\Grinin.TaskPlanner-L1\Grinin.TaskPlanner\Grinin.TaskPlanner.ConsoleRunner\obj\Debug\net8.0\Grinin.TaskPlanner.ConsoleRunner.csproj.CoreCompileInputs.cache
+E:\Other\.net reps\Grinin.TaskPlanner-L1\Grinin.TaskPlanner\Grinin.TaskPlanner.ConsoleRunner\obj\Debug\net8.0\Grinin.TaskPlanner.ConsoleRunner.dll
+E:\Other\.net reps\Grinin.TaskPlanner-L1\Grinin.TaskPlanner\Grinin.TaskPlanner.ConsoleRunner\obj\Debug\net8.0\refint\Grinin.TaskPlanner.ConsoleRunner.dll
+E:\Other\.net reps\Grinin.TaskPlanner-L1\Grinin.TaskPlanner\Grinin.TaskPlanner.ConsoleRunner\obj\Debug\net8.0\Grinin.TaskPlanner.ConsoleRunner.pdb
+E:\Other\.net reps\Grinin.TaskPlanner-L1\Grinin.TaskPlanner\Grinin.TaskPlanner.ConsoleRunner\obj\Debug\net8.0\Grinin.TaskPlanner.ConsoleRunner.genruntimeconfig.cache
+E:\Other\.net reps\Grinin.TaskPlanner-L1\Grinin.TaskPlanner\Grinin.TaskPlanner.ConsoleRunner\obj\Debug\net8.0\ref\Grinin.TaskPlanner.ConsoleRunner.dll
