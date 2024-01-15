@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Grinin.TaskPlanner.Domain.Logic\Grinin.TaskPlanner.Domain.Logic.csproj" />
+    <ProjectReference Include="..\Grinin.TaskPlanner.Domain.Models\Grinin.TaskPlanner.Domain.Models.csproj" />
+  </ItemGroup>
+
 </Project>

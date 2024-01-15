@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Grinin.TaskPlanner.ConsoleRunner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+694bfd3270873855306d7b0c96a39dbf24cfdd21")]
 [assembly: System.Reflection.AssemblyProductAttribute("Grinin.TaskPlanner.ConsoleRunner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Grinin.TaskPlanner.ConsoleRunner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
